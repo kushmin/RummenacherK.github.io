@@ -127,7 +127,7 @@ footer a {
 }
 
 @media screen and (min-width: 320px) {
-  .page::before {
+  /*.page::before {
     content: "320px";
     position: absolute;
     color: green;
@@ -136,11 +136,11 @@ footer a {
     font-weight: 700;
     margin: 5px;
     font-size: 2em;
-  }
+  }*/
 }
 
 @media screen and (min-width: 480px) {
-  .page::before {
+  /*.page::before {
     content: "480px";
     position: absolute;
     color: green;
@@ -149,7 +149,7 @@ footer a {
     font-weight: 700;
     margin: 5px;
     font-size: 2em;
-  }
+  }*/
 
   img {
     width: 300px;
@@ -158,7 +158,7 @@ footer a {
 }
 
 @media screen and (min-width: 620px) {
-  .page::before {
+  /*.page::before {
     content: "620px";
     position: absolute;
     color: green;
@@ -167,12 +167,12 @@ footer a {
     font-weight: 700;
     margin: 5px;
     font-size: 2em;
-  }
+  }*/
 
 }
 
 @media screen and (min-width: 810px) {
-  .page::before {
+  /*.page::before {
     content: "810px";
     position: absolute;
     color: green;
@@ -181,7 +181,7 @@ footer a {
     font-weight: 700;
     margin: 5px;
     font-size: 2em;
-  }
+  }*/
 
   .home h1 {
     font-size: 48px;
@@ -197,7 +197,7 @@ footer a {
 }
 
 @media screen and (min-width: 1400px) {
-  .page::before {
+  /*.page::before {
     content: "1400px";
     position: absolute;
     color: green;
@@ -206,5 +206,5 @@ footer a {
     font-weight: 700;
     margin: 5px;
     font-size: 2em;
-  }
+  }*/
 }
